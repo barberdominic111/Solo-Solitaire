@@ -1,0 +1,2 @@
+# Solo-Solitaire
+Solitaire variant 
